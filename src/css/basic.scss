@@ -1,0 +1,58 @@
+body,
+html {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  //min-width: 1200px;
+  margin: 0;
+  font-family: "Microsoft YaHei";
+  // font-family: Serif;
+  font-size: 32px;
+  color: #333;
+
+}
+
+li,
+ul {
+  list-style: none;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-padding-start: 0;
+  //font-size: 14px;
+}
+
+p {
+  display: block;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+}
+
+th {
+  font-weight: bold;
+}
+
+.el-picker-panel table tbody tr {
+  height: .5rem;
+  line-height: .5rem;
+}
+
+#app {
+  height: 100%;
+}
+
+.header {
+  //height: 1rem;
+  //background: #1e7af1;
+  //justify-content: space-between;
+  //padding: 0 .3rem;
+}
+input {
+  padding: 0;
+  border-width: 0;
+}
+
+
+
+
+
+
